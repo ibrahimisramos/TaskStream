@@ -27,7 +27,7 @@ public class Main {
         printDeadlinesWithStreamSorted(tasksData);
 
         ArrayList<Task> filteredList = filterTasksByString(tasksData,"11");
-        System.out.println(filteredList);
+        System.out.println("DONE!: "filteredList);
 
     }
 
